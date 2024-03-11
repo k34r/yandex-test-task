@@ -1,1 +1,1 @@
-test fot yandex
+test for yandex
